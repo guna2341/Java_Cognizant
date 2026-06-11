@@ -6,6 +6,10 @@ import Factory.DocumentFactory;
 import Factory.Impl.ExcelDocumentFactory;
 import Factory.Impl.PdfDocumentFactory;
 import Factory.Impl.WordDocumentFactory;
+import org.junit.Test;
+
+import static org.junit.Assert.assertNotNull;
+import static org.junit.Assert.assertTrue;
 
 public class Main {
     public static void main(String[] args) {
@@ -24,4 +28,5 @@ public class Main {
         Document excelDocument = excelDocumentFactory.createDocument();
         System.out.println(excelDocument instanceof ExcelDocument);
     }
+
 }
