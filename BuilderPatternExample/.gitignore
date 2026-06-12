@@ -1,7 +1,7 @@
 ### IntelliJ IDEA ###
 out/
-.idea/
-FactoryMethodPatternExample.iml
+.idea
+BuilderPatternExample.iml
 !**/src/main/**/out/
 !**/src/test/**/out/
 
