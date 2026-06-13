@@ -1,5 +1,7 @@
 ### IntelliJ IDEA ###
 out/
+.idea
+StrategyPatternExample.imlg
 !**/src/main/**/out/
 !**/src/test/**/out/
 
