@@ -1,15 +1,15 @@
-package Factory.Impl;
+    package Factory.Impl;
 
-import Document.Document;
-import Document.Impl.PdfDocument;
-import Factory.DocumentFactory;
+    import Document.Document;
+    import Document.Impl.PdfDocument;
+    import Factory.DocumentFactory;
 
 
-public class PdfDocumentFactory extends DocumentFactory {
+    public class PdfDocumentFactory extends DocumentFactory {
 
-    @Override
-    public Document createDocument() {
-        return new PdfDocument();
+        @Override
+        public Document createDocument() {
+            return new PdfDocument();
+        }
+
     }
-
-}
