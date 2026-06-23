@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/week 1/Design_patterns/AdapterPatternExample/AdapterPatternExample.iml" filepath="$PROJECT_DIR$/week 1/Design_patterns/AdapterPatternExample/AdapterPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Design_patterns/BuilderPatternExample/BuilderPatternExample.iml" filepath="$PROJECT_DIR$/week 1/Design_patterns/BuilderPatternExample/BuilderPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cognizant.iml" filepath="$PROJECT_DIR$/.idea/Cognizant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Design_patterns/CommandPatternExample/CommandPatternExample.iml" filepath="$PROJECT_DIR$/week 1/Design_patterns/CommandPatternExample/CommandPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Design_patterns/DecoraterPatternExample/DecoraterPatternExample.iml" filepath="$PROJECT_DIR$/week 1/Design_patterns/DecoraterPatternExample/DecoraterPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Design_patterns/DependencyInjectionExample/DependencyInjectionExample.iml" filepath="$PROJECT_DIR$/week 1/Design_patterns/DependencyInjectionExample/DependencyInjectionExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Design_patterns/FactoryMethodPatternExample/FactoryMethodPatternExample.iml" filepath="$PROJECT_DIR$/week 1/Design_patterns/FactoryMethodPatternExample/FactoryMethodPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Datastructures_and _Algorithms/FinancialForecasting/FinancialForecasting.iml" filepath="$PROJECT_DIR$/week 1/Datastructures_and _Algorithms/FinancialForecasting/FinancialForecasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Datastructures_and _Algorithms/InventoryManagement/InventoryManagement.iml" filepath="$PROJECT_DIR$/week 1/Datastructures_and _Algorithms/InventoryManagement/InventoryManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Design_patterns/MVCPatternExample/MVCPatternExample.iml" filepath="$PROJECT_DIR$/week 1/Design_patterns/MVCPatternExample/MVCPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Design_patterns/ObserverPatternExample/ObserverPatternExample.iml" filepath="$PROJECT_DIR$/week 1/Design_patterns/ObserverPatternExample/ObserverPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Design_patterns/ProxyPatternExample/ProxyPatternExample.iml" filepath="$PROJECT_DIR$/week 1/Design_patterns/ProxyPatternExample/ProxyPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Design_patterns/SIngletonPatternExample/SIngletonPatternExample.iml" filepath="$PROJECT_DIR$/week 1/Design_patterns/SIngletonPatternExample/SIngletonPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Design_patterns/SOLID/SOLID.iml" filepath="$PROJECT_DIR$/week 1/Design_patterns/SOLID/SOLID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Datastructures_and _Algorithms/SearchFunctionality/SearchFunctionality.iml" filepath="$PROJECT_DIR$/week 1/Datastructures_and _Algorithms/SearchFunctionality/SearchFunctionality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Datastructures_and _Algorithms/SortingCustomerOrders/SortingCustomerOrders.iml" filepath="$PROJECT_DIR$/week 1/Datastructures_and _Algorithms/SortingCustomerOrders/SortingCustomerOrders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1/Design_patterns/StrategyPatternExample/StrategyPatternExample.iml" filepath="$PROJECT_DIR$/week 1/Design_patterns/StrategyPatternExample/StrategyPatternExample.iml" />
+    </modules>
+  </component>
+</project>

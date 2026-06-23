@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Design_patterns/AdapterPatternExample/AdapterPatternExample.iml" filepath="$PROJECT_DIR$/Design_patterns/AdapterPatternExample/AdapterPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design_patterns/BuilderPatternExample/BuilderPatternExample.iml" filepath="$PROJECT_DIR$/Design_patterns/BuilderPatternExample/BuilderPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design_patterns/FactoryMethodPatternExample/FactoryMethodPatternExample.iml" filepath="$PROJECT_DIR$/Design_patterns/FactoryMethodPatternExample/FactoryMethodPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_COGNIZANT.iml" filepath="$PROJECT_DIR$/.idea/JAVA_COGNIZANT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design_patterns/SIngletonPatternExample/SIngletonPatternExample.iml" filepath="$PROJECT_DIR$/Design_patterns/SIngletonPatternExample/SIngletonPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design_patterns/SOLID/SOLID.iml" filepath="$PROJECT_DIR$/Design_patterns/SOLID/SOLID.iml" />
+    </modules>
+  </component>
+</project>

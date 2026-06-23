@@ -1,0 +1,18 @@
+package Services;
+
+import Model.ProductInterface;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+
+public interface ProductServiceInterface {
+
+    public void addProduct(String productId, String productName, int quantity, double price);
+
+    public void removeProduct(String id);
+
+    public ArrayList<ProductInterface> getProducts();
+
+    public ProductInterface getProductById(String id);
+
+}
