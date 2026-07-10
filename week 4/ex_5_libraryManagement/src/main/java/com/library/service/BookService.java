@@ -4,9 +4,9 @@ import com.library.repository.BookRepository;
 
 public class BookService {
 
-    BookRepository repo;
+    private BookRepository repo;
 
-    public BookService(BookRepository repo) {
+    public void setRepo(BookRepository repo) {
         this.repo = repo;
     }
 

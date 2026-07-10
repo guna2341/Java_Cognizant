@@ -14,7 +14,7 @@ xsi:schemaLocation=
 <bean id="bookService"
       class="com.library.service.BookService"
 >
-      <constructor-arg ref="bookRepository" />
+      <property name="repo" ref="bookRepository" />
 </bean>
 
 </beans>
