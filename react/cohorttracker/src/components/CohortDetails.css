@@ -1,0 +1,60 @@
+.wrapper {
+    background: #ffffff;
+    padding: 32px 40px;
+}
+
+.heading {
+    font-size: 28px;
+    font-weight: 700;
+    color: #111111;
+    margin: 0 0 24px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+}
+
+.box {
+    width: 300px;
+    padding: 16px 20px 20px;
+    border: 1px solid #d9d9d9;
+    border-radius: 10px;
+    background: #ffffff;
+}
+
+.box h3 {
+    font-size: 16px;
+    font-weight: 700;
+    margin: 0 0 16px;
+}
+
+.green {
+    color: #1a7a2e;
+}
+
+.blue {
+    color: #1a56db;
+}
+
+.dl {
+    margin: 0;
+}
+
+.dl dt {
+    font-weight: 700;
+    color: #111111;
+    font-size: 14px;
+    margin: 0 0 2px;
+}
+
+.dl dd {
+    margin: 0 0 12px 12px;
+    color: #333333;
+    font-size: 14px;
+}
+
+.dl dd:last-child {
+    margin-bottom: 0;
+}
